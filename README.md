@@ -1,1 +1,1 @@
-# MovieRecommenderSystem
+# This projects gives personalized recommendations to users based on their movie selection. The algorithm used is "Content-Based Filtering". The dataset is taken from Kaggle (TMDB Dataset).
